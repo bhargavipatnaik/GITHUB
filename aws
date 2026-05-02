@@ -1,2 +1,12 @@
-commiting data 2nd time
-commiting 3rd time
+Adding some jave code here 
+
+package devops;
+
+/**
+ * Hello world!
+ */
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
